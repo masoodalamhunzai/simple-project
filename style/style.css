@@ -1,0 +1,95 @@
+body{
+    background-color: gray;
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    width: 1000px;
+    margin: 0 auto;
+    background-color: rgb(192, 216, 208);
+    padding: 20px;
+    box-sizing: border-box;
+}
+img{
+    margin-top: 2px;
+    display: block;
+    width: 950px;
+    height: 300px;
+    border: 2px groove black;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: brown;
+    font-size: 2em;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-stretch: narrower;
+    font-style: normal;
+    text-align: center;
+    padding: 5px;
+    margin: 0px;
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+    font-size:1.5em;
+    font-weight: normal;
+    text-align: center;
+    text-transform: lowercase;
+    text-align: center;
+    padding: 5px;
+
+}
+h3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: blueviolet;
+    font-size:1.3em;
+    font-weight: bold;
+    text-align: center;
+    text-transform: inherit;
+    text-align: center;
+    padding: 5px;
+    
+}
+h4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:forestgreen;
+    font-size:1em;
+    font-weight: bolder;
+    text-align: center;
+    text-transform: capitalize;
+    text-align: center;
+    padding: 5px;
+    
+}
+h5{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:deepskyblue;
+    font-size:0.8em;
+    font-weight: bold;
+    text-align: center;
+    text-transform: none;
+    text-align: center;
+    padding: 5px;
+}
+h6{
+    font-family:'Times New Roman', Times, serif;
+    font-size:0.6em;
+    color:black;
+    font-weight: bolder;
+    text-align: center;
+    text-transform: initial;
+    text-align: center;
+    padding: 5px;
+    
+}
+p{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:maroon;
+    font-size:1.5em;
+    font-weight: lighter;
+    text-align: center;
+    text-transform: initial;
+    text-align: center;
+    padding: 10px; 
+}
